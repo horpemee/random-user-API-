@@ -1,0 +1,29 @@
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+.icons img {
+  width: 4rem;
+}
+.display-pics img {
+  border-radius: 50%;
+}
+.card {
+  width: 650px;
+  height: auto;
+  background-color: rgb(199, 173, 173);
+  margin: auto;
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+}
+.random-user {
+  margin-top: 15px;
+}
+.display-content {
+  text-align: center;
+}
